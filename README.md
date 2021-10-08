@@ -1,4 +1,4 @@
-## Olá, meu nome é Alessandro Hugen
+## Olá, meu nome é Alessandro Hugen, Desenvolvedor Front-End e Estudante da Trybe!
  <div>
   <a href="https://github.com/alehugen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehugen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
