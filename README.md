@@ -1,4 +1,4 @@
-## Howdy, meu nome é Alessandro Hugen e sou Desenvolvedor FullStack!
+## Howdy, meu nome é Alessandro Hugen!
  <div>
   <a href="https://github.com/alehugen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehugen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
